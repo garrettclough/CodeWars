@@ -1,7 +1,9 @@
 
 # CodeWars
 
-A repository filled with codewars challenges (kata), LeetCode, and HackerRank.
+A repository filled with codewars challenges (kata)
+
+LeetCode problems are visible in the LeetCode repository.
 
 ## Tech Stack
 
